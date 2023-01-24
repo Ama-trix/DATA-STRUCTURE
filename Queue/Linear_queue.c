@@ -11,7 +11,7 @@ int rear=-1;
 void main(){
     int choice;
     do{
-    printf("+++++++++++++++MENU++++++++++++++\n");
+    printf("+++++++++++++++MENU++++++++++++++\n ");
     printf("Enter your choice for the following operation\n");
     printf("1 For insertion\n2 For deletion\n3 For display\n4 exit");
     scanf("%d",&choice);

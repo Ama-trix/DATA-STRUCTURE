@@ -2,7 +2,7 @@
 #include<conio.h>
 void towerofhanoi(int n, char s, char a, char d){
     if(n==1){
-        printf("The disk is moving from the needle %c to %c",s,d);
+        printf("The disk is moving from the needle %c to %c ",s,d);
     }
     else{
         towerofhanoi(n-1,s,d,a);

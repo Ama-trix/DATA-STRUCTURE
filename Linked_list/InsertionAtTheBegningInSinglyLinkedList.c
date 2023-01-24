@@ -20,7 +20,7 @@ void main(){
         break;
         case 2:traverse();
         break;
-        case 3: printf("Enter the data to be inserted at the begning\n");
+        case 3: printf("Enter the data to be inserted at the begning\n ");
         insertatbeg();
         break;
         case 4:exit(0);

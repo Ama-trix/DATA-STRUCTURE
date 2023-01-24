@@ -10,7 +10,7 @@ void main()
     {
         scanf("%d",&a[i]);
     }
-    printf("here are the elements of array");
+    printf("here are the  elements of array");
     for(i=0;i<n;i++)
     {
        

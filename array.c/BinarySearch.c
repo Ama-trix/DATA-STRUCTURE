@@ -8,7 +8,7 @@ void main(){
     for(i=0;i<n;i++){
         scanf("%d",&array[i]);
     }
-    low=0; //low is lowest index value of an array
+    low=0; //low is lowest index value of an array 
     high=n-1;// high is the highest index value of an array
     printf("Enter the element to search");
     scanf("%d",&item);

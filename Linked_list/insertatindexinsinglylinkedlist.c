@@ -55,7 +55,7 @@ void randominsert(int item)
         else  
         {  
               
-            printf("Enter the location");  
+            printf("Enter the location ");  
             scanf("%d",&loc);             
             ptr->data = item;  
             temp=head;  

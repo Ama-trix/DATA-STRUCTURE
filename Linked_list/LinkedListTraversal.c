@@ -16,7 +16,7 @@ int main(){
     struct node * second;
     struct node * third;
     struct node * fourth;
-    // Allocating the memory 
+    // Allocating the memory  
     head=(struct node *)malloc(sizeof(struct node));
     second=(struct node *)malloc(sizeof(struct node));
     third=(struct node *)malloc(sizeof(struct node));

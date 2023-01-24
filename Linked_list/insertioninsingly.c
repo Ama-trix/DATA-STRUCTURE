@@ -35,7 +35,7 @@ void createNodeList(int n)
     }
     else
     {
-// reads data for the node through keyboard
+// reads data for the node through keyboard 
 
         printf(" Input data for node 1 : ");
         scanf("%d", &num);

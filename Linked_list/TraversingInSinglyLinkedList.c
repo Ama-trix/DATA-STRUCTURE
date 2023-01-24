@@ -22,7 +22,7 @@ void main(){
     break;
     case 3:exit(0);
     break;
-    default:printf("You have entered the wrong choice please enter it again\n");
+    default:printf("You have entered the wrong choice please enter it again\n ");
         break;
     }
     }

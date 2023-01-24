@@ -8,7 +8,7 @@ void main(){
     for(i=0;i<size_of_array;i++){
         scanf("%d",&array[i]);
     }
-    printf("Enter the element you want to search in an array");
+    printf("Enter the element you want to search in an array ");
     scanf("%d",&n);
     i=0;
     while(i<n){

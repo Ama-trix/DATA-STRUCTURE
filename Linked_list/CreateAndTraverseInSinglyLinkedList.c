@@ -20,7 +20,7 @@ else{
 }
 void main(){
     int n1, n2,n3,n4;
-    printf("Enter the data for each node:\n");
+    printf("Enter the data for each node:\n ");
     scanf("%d\n%d\n%d\n%d",&n1,&n2,&n3,&n4);
     addnode(n1);
     addnode(n2);

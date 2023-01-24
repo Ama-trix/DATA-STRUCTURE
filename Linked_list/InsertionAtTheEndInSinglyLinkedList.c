@@ -55,7 +55,7 @@ void traverse(){
         printf("\nLink is empty\n");
     }
     else{
-    printf("The elements in the list are\n");
+    printf("The elements in the list are\n ");
     while(current!=NULL){
         printf(" %d\n",current->data);
         current=current->next;

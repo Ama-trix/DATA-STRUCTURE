@@ -63,7 +63,7 @@ void insertatindex(struct node *head){
     struct node *temp;
     temp=head;
     struct node *newnode=(struct node * )malloc(sizeof(struct node));
-    printf("Enter the data to be inserted\n");
+    printf("Enter the data to be inserted\n ");
     scanf("%d",&data);
     printf("Enter the position to be inserted \n");
     scanf("%d",&pos);

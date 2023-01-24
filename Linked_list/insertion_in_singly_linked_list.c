@@ -35,7 +35,7 @@ void main(){
             break;
         case 4:display();
             break;
-        default: printf("You have entered the wrong choice please check it again")
+        default: printf("You have entered the wrong choice please check it again ");
             break;
         }
     }
